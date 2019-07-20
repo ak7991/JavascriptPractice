@@ -1,4 +1,4 @@
 # JavascriptPractice
 Collection of javascript projects I made along the way.
 
-This is just a repositories of mini projects I did to learn this scipting language.
+This is repo of some mini projects I made to learn the scripting language.
